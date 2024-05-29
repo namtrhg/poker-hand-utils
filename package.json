@@ -1,6 +1,6 @@
 {
 	"name": "poker-hand-utils",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A utility library for evaluating and finding the best poker hands.",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",

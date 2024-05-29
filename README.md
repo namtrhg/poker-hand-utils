@@ -7,11 +7,15 @@ Evaluate the score (the lower the better) of a poker hand as described in this p
 
 ## Installation
 
-You can install the library using npm or yarn:
+You can install the library using npm:
 
 ```sh
 npm install poker-hand-utils
-# or
+```
+
+or with yarn:
+
+```sh
 yarn add poker-hand-utils
 ```
 
