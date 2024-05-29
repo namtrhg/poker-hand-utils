@@ -1,9 +1,7 @@
 
 # Poker Hand Utils
 
-A utility library for evaluating and finding the best poker hands. This library provides functions to evaluate poker hands and determine the best 5-card hand from a set of 6 or 7 cards.
-
-This is basically an upgrade version of https://github.com/codeKonami/poker-hand with adding support for TypeScript.
+This utility library for evaluating poker hands an upgrade version of https://github.com/codeKonami/poker-hand with adding support for TypeScript.
 
 Evaluate the score (the lower the better) of a poker hand as described in this post blog : http://suffe.cool/poker/evaluator.html. You can compare two poker hands to find out who wins or if it's a tie.
 
