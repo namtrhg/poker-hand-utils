@@ -20,9 +20,7 @@
 	],
 	"author": "namtrhg@gmail.com",
 	"license": "MIT",
-	"dependencies": {
-		"poker-hand-evaluator": "^1.0.0"
-	},
+	"dependencies": {},
 	"devDependencies": {
 		"typescript": "^4.0.0"
 	}
