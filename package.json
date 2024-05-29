@@ -1,0 +1,29 @@
+{
+	"name": "poker-hand-utils",
+	"version": "1.0.0",
+	"description": "A utility library for evaluating and finding the best poker hands.",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsc",
+		"prepare": "npm run build"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/your-username/poker-hand-utils.git"
+	},
+	"keywords": [
+		"poker",
+		"poker-hand",
+		"hand-evaluator",
+		"utils"
+	],
+	"author": "namtrhg@gmail.com",
+	"license": "MIT",
+	"dependencies": {
+		"poker-hand-evaluator": "^1.0.0"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.0"
+	}
+}
